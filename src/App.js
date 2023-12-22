@@ -98,7 +98,7 @@ const App = () => {
     setResult("");
   };
   const buttonColor = "#f2a33c";
-
+  const buttonColor1 = "black";
   return (
     <div className="App">
       <div className="calc-wrapper">
